@@ -1,0 +1,2 @@
+class LeanDb < ApplicationRecord
+end
